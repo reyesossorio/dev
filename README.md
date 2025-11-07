@@ -19,6 +19,3 @@ My personal development environment configuration and dotfiles.
 - Hyprland keybindings and monitor setup
 - Custom environment setup
 
-## Sync script
-
-Run `./copy-configs.sh` to sync the latest configurations from the system.
