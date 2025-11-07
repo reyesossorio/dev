@@ -106,4 +106,4 @@ source $ZSH/oh-my-zsh.sh
 autoload -U compinit && compinit
 source ~/.local/share/omarchy/default/bash/aliases
 export PATH="$PATH:$(go env GOPATH)/bin"
-bindkey -s ^d "~/env/dev.sh\n"
+bindkey -s ^d "~/env/tmux-dev.sh\n"
